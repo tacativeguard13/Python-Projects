@@ -5,4 +5,4 @@ if name == "1234567890":
 birthdate = input("Enter your birthdate\n>>> ")
 print("Your birthdate has been registered")
 if birthdate == "abcdefghijklmopqrstuvwxyz":
-    Print("Your entered birthdate id invalid")
+    print("Your entered birthdate id invalid")
