@@ -1,5 +1,0 @@
-command = input(">>> ")
-
-
-
-
