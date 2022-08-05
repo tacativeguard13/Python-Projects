@@ -9,6 +9,6 @@ def validOrNot ():
         return intOr == False
 
 if intOr == True :
-    print("The the given word is an int")
+    print("The the given word is a number")
 else:
-    print("The given word is ann string")
+    print("The given word is a word")
